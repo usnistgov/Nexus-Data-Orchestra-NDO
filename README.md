@@ -2,6 +2,7 @@
 
 
 This repository serves as the central landing page for the NexusLIMS project family and related data orchestration repositories. It is intended to help developers, maintainers, and collaborators quickly find the correct repository, documentation, deployment resources, and supporting tools.
+![Logo](./assets/NDO.png)
 
 > This repository is a directory and start page. It does not contain the main NexusLIMS application code.
 
