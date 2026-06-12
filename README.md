@@ -20,7 +20,7 @@ This repository serves as the central landing page for the NexusLIMS project fam
     - [NIST_Sample](https://github.com/usnistgov/NIST_Sample)  
 
   - **Instrument DB**  
-    Coming soon.
+    -  [NIST_Instrument](https://github.com/usnistgov/NIST-Instrument)
 
 
 ## Project Purpose
@@ -36,4 +36,4 @@ Nexus Data Orchestra organizes repositories and resources used to support scient
   - Repository for NIST sample tracking and sample-related data management.
 
 - **Instrument DB**
-  - Coming soon.
+  - Repository for NIST Instrument tracking and data management.
