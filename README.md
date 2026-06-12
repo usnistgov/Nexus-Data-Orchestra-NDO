@@ -17,10 +17,10 @@ This repository serves as the central landing page for the NexusLIMS project fam
     - [NexusLIMS-Record-Builder](https://github.com/usnistgov/NexusLIMS):
 
   - **NIST Sample**
-    - [NIST_Sample](https://github.com/usnistgov/NIST_Sample)  
+    - [NIST-Sample](https://github.com/usnistgov/NIST_Sample)  
 
   - **Instrument DB**  
-    -  [NIST_Instrument](https://github.com/usnistgov/NIST-Instrument)
+    -  [NIST-Instrument](https://github.com/usnistgov/NIST-Instrument)
 
 
 ## Project Purpose
